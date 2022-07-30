@@ -412,7 +412,8 @@ section .title::after{
     height: 250px;
     width: 450px;
     object-fit: cover;
-    border-radius: 0%; <!--- determines the amount curved--->
+    border-radius: 0%; 
+    <!-- determines the amount curved-->
     border: 12px solid crimson;
     transition: all 0.3s ease;
 }
